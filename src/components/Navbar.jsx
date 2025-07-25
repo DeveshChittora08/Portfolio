@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import { FiAlignRight } from "react-icons/fi";
 import { RxCross2 } from "react-icons/rx";
-import { Link } from 'react-router';
+// import { Link } from 'react-router';
 
 function Navbar() {
 

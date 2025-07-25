@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router";
+// import { BrowserRouter, Route, Routes } from "react-router";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";

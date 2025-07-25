@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import  {useState} from 'react'
 import { motion } from "motion/react"
 
 
@@ -13,7 +13,7 @@ const skillsData = [
 function Skills() {
 
       
-      const [skills, setSkills] = useState(skillsData);
+      const [skills,] = useState(skillsData);
 
   return (
    <div className='h-screen bg-slate-200'>
